@@ -35,11 +35,3 @@ E-commerce web app project based on mvc model. Neon theme.
 1. admin, admin123
 and many more, refer to the localhost database.
 
-
-
-
-# Open Source?
-Hmm, depends cause I prolly offer the license for sale, it's my intellectual property bro.
-# PHP-Website
-# PHP-Website
-# PHP-Website
