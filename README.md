@@ -2,6 +2,8 @@
 
 E-commerce web app project based on mvc model. Neon theme.
 
+Thanks
+
 # Frontend
 ![image](https://user-images.githubusercontent.com/59404615/208036926-a4863d53-8c29-43cd-9da4-8fbd99eb6909.png)
 
